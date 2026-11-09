@@ -1,4 +1,4 @@
-In logic, disjunction (also known as logical disjunction, logical or, logical addition, or inclusive disjunction) is a logical connective typically notated as ∨ and read aloud as "or".
+In logic, disjunction (also known as logical disjunction, logical or, logical addition, or inclusive disjunction) is a logical connective typically notated as $\lor$ and read aloud as "or".
 
 ## Truth Table
 

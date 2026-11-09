@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Drawings"
             }
+          },
+          {
+            "id": "2f047f00238adfd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class Schedule"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawings/Drawings.md",
+                "file": "Class Schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,25 +259,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2baf0e70ec60df5",
+  "active": "9582129c0d3c3dd0",
   "lastOpenFiles": [
+    "Exam Dates.md",
+    "README.md",
+    "Math/LaTex/LaTex.md",
+    "Math/LaTex/Expressions/Exponents & Subscripts.md",
+    "Math/Boolean Algebra/Boolean Algebra.md",
+    "Math/Boolean Algebra/OR-Disjuction.md",
+    "Math/Boolean Algebra/AND-Conjuction.md",
+    "Math/Boolean Algebra/NOT-Negation.md",
+    "Math/LaTex/Expressions/Symbols/Integral.md",
+    "Math/LaTex/Expressions/Symbols/Product (Capital PI).md",
+    "Math/LaTex/Expressions/Symbols/Sum (Capital Sigma).md",
+    "Math/LaTex/Expressions/Symbols/Symbols.md",
+    "Math/LaTex/Expressions/Text.md",
+    "Math/LaTex/Expressions/Variables.md",
+    "Class Schedule.md",
+    "Drawings/Drawings.md",
     "Drawings/School.md",
     "Algorythims/Example.canvas",
     "Algorythims/Algorythim Graps.md",
-    "Drawings/Drawings.md",
-    "Math/LaTex/LaTex.md",
-    "Math/LaTex/Expressions/Exponents & Subscripts.md",
-    "Math/LaTex/Expressions/Symbols/Symbols.md",
-    "Math/LaTex/Expressions/Symbols/Sum (Capital Sigma).md",
-    "Math/LaTex/Expressions/Symbols/Product (Capital PI).md",
-    "README.md",
-    "Math/LaTex/Expressions/Variables.md",
-    "Math/LaTex/Expressions/Text.md",
-    "Math/Boolean Algebra/Boolean Algebra.md",
-    "Math/Boolean Algebra/OR-Disjuction.md",
-    "Math/Boolean Algebra/NOT-Negation.md",
-    "Math/Boolean Algebra/AND-Conjuction.md",
-    "Math/LaTex/Expressions/Symbols/Integral.md",
     "Untitled",
     "Math/Latex/Expressions/Symbols/Untitled",
     "Math/LaTex/Expressions/Symbols",
@@ -280,7 +296,6 @@
     "Excalidraw/Drawing 2026-10-03 22.14.20.excalidraw.md",
     "Excalidraw/Drawing 2026-10-03 22.37.22.excalidraw.md",
     "Ink/Writing/2026.10.4 - 12.56pm.svg",
-    "Excalidraw/Drawing 2026-10-04 12.52.38.excalidraw.md",
     "Untitled.base",
     "Ink/Writing/2026.10.3 - 22.29pm.svg",
     "Ink/Drawing/2026.10.3 - 22.29pm.svg",
