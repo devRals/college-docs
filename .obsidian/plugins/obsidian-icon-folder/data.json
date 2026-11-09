@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCheck",
+      "LiSigma",
+      "LiPen",
+      "LiCodeSquare",
+      "🐍"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Math": {
+    "iconName": "LiPi",
+    "iconColor": "#468fd2"
+  },
+  "Programming": {
+    "iconName": "LiCode",
+    "iconColor": "#b58b17"
+  },
+  "Algorythims": {
+    "iconName": "LiCodeSquare",
+    "iconColor": "#d73209"
+  },
+  "Drawings": "LiPen",
+  "Math/Boolean Algebra": "LiCheck",
+  "Math/LaTex": "LiSigma"
+}

@@ -1,0 +1,15 @@
+{
+  "editor:delete-paragraph": [],
+  "app:open-help": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": []
+}

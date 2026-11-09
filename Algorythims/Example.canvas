@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"2f0cfb9f5270cc96","type":"text","text":"\"A\" equals to value 10?","x":-131,"y":-100,"width":250,"height":60,"color":"3"},
+		{"id":"5f707dd1aa396b88","type":"text","text":"End","x":-340,"y":90,"width":250,"height":60,"color":"4"},
+		{"id":"471e51d12de84cdc","type":"text","text":"Increase The Variable \"A\" by 2","x":100,"y":30,"width":250,"height":60},
+		{"id":"564f961d1fce16aa","type":"text","text":"Start","x":-131,"y":-400,"width":250,"height":60,"color":"4"},
+		{"id":"0fe262ef4a698b8e","type":"text","text":"Define \"A\" as 2","x":-131,"y":-260,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"f12136a8e3af572e","fromNode":"2f0cfb9f5270cc96","fromSide":"bottom","toNode":"471e51d12de84cdc","toSide":"top","label":"NO?"},
+		{"id":"d0f1a21cf7ee21ed","fromNode":"564f961d1fce16aa","fromSide":"bottom","toNode":"0fe262ef4a698b8e","toSide":"top"},
+		{"id":"787ed3ab808bccd1","fromNode":"0fe262ef4a698b8e","fromSide":"bottom","toNode":"2f0cfb9f5270cc96","toSide":"top"},
+		{"id":"25ba11a4636a07a5","fromNode":"2f0cfb9f5270cc96","fromSide":"bottom","toNode":"5f707dd1aa396b88","toSide":"top","label":"YES?"},
+		{"id":"1582e105cae7f9b7","fromNode":"471e51d12de84cdc","fromSide":"bottom","toNode":"2f0cfb9f5270cc96","toSide":"bottom"}
+	]
+}
