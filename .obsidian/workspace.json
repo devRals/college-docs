@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bedfe7c79299ef2a",
+        "id": "2721a4165c6f851f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7a5edcd7cf6f78",
+            "id": "ae8ac5451aedf207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Boolean Algebra/Boolean Algebra.md",
+                "file": "Exam Dates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boolean Algebra"
-            }
-          },
-          {
-            "id": "4fe30e53fa8db274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/LaTex/LaTex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTex"
-            }
-          },
-          {
-            "id": "b2a4af9876a0b531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/LaTex/Expressions/Symbols/Symbols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Symbols"
-            }
-          },
-          {
-            "id": "c2baf0e70ec60df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drawings/Drawings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drawings"
-            }
-          },
-          {
-            "id": "2f047f00238adfd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Schedule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class Schedule"
+              "title": "Exam Dates"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Schedule.md",
+                "file": "Exam Dates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -259,13 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9582129c0d3c3dd0",
+  "active": "ae8ac5451aedf207",
   "lastOpenFiles": [
+    "Math/LaTex/LaTex.md",
+    "Math/Boolean Algebra/Boolean Algebra.md",
+    "Class Schedule.md",
     "Exam Dates.md",
     "README.md",
-    "Math/LaTex/LaTex.md",
     "Math/LaTex/Expressions/Exponents & Subscripts.md",
-    "Math/Boolean Algebra/Boolean Algebra.md",
     "Math/Boolean Algebra/OR-Disjuction.md",
     "Math/Boolean Algebra/AND-Conjuction.md",
     "Math/Boolean Algebra/NOT-Negation.md",
@@ -275,7 +219,6 @@
     "Math/LaTex/Expressions/Symbols/Symbols.md",
     "Math/LaTex/Expressions/Text.md",
     "Math/LaTex/Expressions/Variables.md",
-    "Class Schedule.md",
     "Drawings/Drawings.md",
     "Drawings/School.md",
     "Algorythims/Example.canvas",
