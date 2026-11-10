@@ -1,4 +1,3 @@
-
 ## Campuses
 |   Code    | Description                                                                                                             |
 | :-------: | ----------------------------------------------------------------------------------------------------------------------- |
@@ -21,16 +20,16 @@
 
 ## Classes
 
-| Abbveriation | Class Name                         |
-| ------------ | ---------------------------------- |
-| **BTT**      | Bilişim Teknolojilerinin Temelleri |
-| **TBT**      | Temel Bilgi Teknolojiler           |
-| **TD&M**     | Türk Dili ve Mantık Bilgisi        |
-| **D**        | Danışmanlık                        |
-| **SA&T**     | Sistem Analizi ve Tasarımı         |
-| **YG**       | Yazılım Geliştirme                 |
-| **ENG**      | İngilizce                          |
-| **D-Math**   | Ayrık Matematik                    |
+| Abbveriation | Class Name                    |
+| ------------ | ----------------------------- |
+| **BTG**      | Bilişim Teknolojilerine Giriş |
+| **TBT**      | Temel Bilgi Teknolojiler      |
+| **TD&M**     | Türk Dili ve Mantık Bilgisi   |
+| **D**        | Danışmanlık                   |
+| **SA&T**     | Sistem Analizi ve Tasarımı    |
+| **YG**       | Yazılım Geliştirme            |
+| **ENG**      | İngilizce                     |
+| **D-Math**   | Ayrık Matematik               |
 ### Monday
 - `9.00 - 12.30` : **BTT** (*MU1*)
 
@@ -40,7 +39,7 @@
 - `15.25 - 16.10`: **D** (*TEAMS*)
 
 ### Wednesday
-> Free
+> Free Day :LiPartyPopper:
 
 ### Thursday
  - `9.00 - 10.50`: **SA&T** (*M1*)

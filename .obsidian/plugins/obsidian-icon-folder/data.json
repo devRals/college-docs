@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPenBox",
       "LiCheck",
       "LiSigma",
       "LiPen",
-      "LiCodeSquare",
-      "🐍"
+      "LiCodeSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,9 @@
   },
   "Drawings": "LiPen",
   "Math/Boolean Algebra": "LiCheck",
-  "Math/LaTex": "LiSigma"
+  "Math/LaTex": "LiSigma",
+  "Exam Dates": {
+    "iconName": "LiPenBox",
+    "iconColor": "#21c033"
+  }
 }

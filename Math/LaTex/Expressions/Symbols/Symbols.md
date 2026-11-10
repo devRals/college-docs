@@ -20,6 +20,7 @@ For capital letters just make the first letter after the "\\" capital
 | **Delta** | $\delta$ $\Delta$ | `\delta` |
 | **Zeta**  | $\zeta$           | `\zeta`  |
 | **Sigma** | $\sigma$ $\Sigma$ | `\sigma` |
+| **Nabla** | $\nabla$          | `\nabla` |
 | **Gamma** | $\gamma$ $\Gamma$ | `\gamma` |
 | **Pi**    | $\pi$ $\Pi$       | `\pi`    |
 | **Phi**   | $\phi$ $\Phi$     | `\phi`   |
