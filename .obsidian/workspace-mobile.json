@@ -13,12 +13,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "aFile": "Drawings/School.md",
-                "bFile": "Drawings/School.md",
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
                 "aRef": ""
               },
               "icon": "git-pull-request",
-              "title": "Diff: School"
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -117,7 +117,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Math/Boolean Algebra/AND-Conjuction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +135,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Math/Boolean Algebra/AND-Conjuction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +148,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Math/Boolean Algebra/AND-Conjuction.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -200,13 +197,13 @@
   },
   "active": "32a3c200f1c2c3f0",
   "lastOpenFiles": [
-    "Algorythims/Linear Search O(n).canvas",
-    "Algorythims/Example.canvas",
-    "Algorythims/Algorithms.md",
-    "Algorythims/Find biggest value in the list O(n).canvas",
+    "Algorithms/Linear Search O(n).canvas",
+    "Drawings/Drawings.md",
+    "Algorithms/Example.canvas",
+    "Algorithms/Algorithms.md",
+    "Algorithms/Find biggest value in the list O(n).canvas",
     "Exam Dates/2026-12-11 D-Math Midterm.md",
     "Drawings/School.md",
-    "Drawings/Drawings.md",
     "Math/LaTex/LaTex.md",
     "Math/Boolean Algebra/Boolean Algebra.md",
     "Math/LaTex/Expressions/Variables.md",
