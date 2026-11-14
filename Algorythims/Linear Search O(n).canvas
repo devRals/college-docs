@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"e5326ce21f00299f","type":"text","text":"Start","x":3,"y":-292,"width":250,"height":60,"color":"4"},
+		{"id":"5ca815674af08c45","type":"text","text":"Start the loop","x":-106,"y":161,"width":250,"height":60,"color":"3"},
+		{"id":"b4c014f10a76cb7a","type":"text","text":"Is i less or equal to n?","x":-240,"y":409,"width":280,"height":50,"color":"6"},
+		{"id":"b95b0cf7ce74287d","type":"text","text":"define x as \"i indexed element of the list\"","x":-632,"y":408,"width":250,"height":60,"color":"5"},
+		{"id":"70273d8d8b390e4f","type":"text","text":"Is x equals to the \"the value we've been looking\"?","x":-629,"y":614,"width":250,"height":60,"color":"6"},
+		{"id":"26abed007aaaac36","type":"text","text":"x is the \"value we've been looking for\"","x":-957,"y":623,"width":250,"height":60,"color":"5"},
+		{"id":"6cf02742e141a399","type":"text","text":"Finish","x":-1336,"y":636,"width":250,"height":60,"color":"4"},
+		{"id":"b989772adf51e000","type":"text","text":"Continue the loop","x":-255,"y":616,"width":250,"height":60,"color":"5"},
+		{"id":"f03f4358743d2355","type":"text","text":"Break the loop","x":174,"y":407,"width":250,"height":60,"color":"5"},
+		{"id":"3a7fe9604e2fc973","type":"text","text":"Finish","x":722,"y":160,"width":250,"height":60,"color":"4"},
+		{"id":"e02cd01f114ebb5b","type":"text","text":"\"Value couldn't find\"","x":400,"y":221,"width":250,"height":60,"color":"1"},
+		{"id":"56472653e743ba25","type":"text","text":"Set n as length of the \"list\"","x":-60,"y":-80,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"e0daeadba8508199","fromNode":"5ca815674af08c45","fromSide":"bottom","toNode":"b4c014f10a76cb7a","toSide":"top","label":"Set i as the index of each iteration "},
+		{"id":"5e3517f34beb82ac","fromNode":"b4c014f10a76cb7a","fromSide":"left","toNode":"b95b0cf7ce74287d","toSide":"right","label":"Yes"},
+		{"id":"900b78325dad3065","fromNode":"b95b0cf7ce74287d","fromSide":"bottom","toNode":"70273d8d8b390e4f","toSide":"top"},
+		{"id":"631b9c1901f88af5","fromNode":"70273d8d8b390e4f","fromSide":"left","toNode":"26abed007aaaac36","toSide":"right","label":"Yes"},
+		{"id":"69d99ad1ea5eb2a0","fromNode":"26abed007aaaac36","fromSide":"left","toNode":"6cf02742e141a399","toSide":"right"},
+		{"id":"07d74e4a4bfe7fd6","fromNode":"70273d8d8b390e4f","fromSide":"right","toNode":"b989772adf51e000","toSide":"left","label":"No"},
+		{"id":"688fd3f035715de5","fromNode":"b989772adf51e000","fromSide":"top","toNode":"b4c014f10a76cb7a","toSide":"bottom"},
+		{"id":"d02b1c2cd7ff0961","fromNode":"b4c014f10a76cb7a","fromSide":"right","toNode":"f03f4358743d2355","toSide":"left","label":"No"},
+		{"id":"4b17efba73de499e","fromNode":"e02cd01f114ebb5b","fromSide":"right","toNode":"3a7fe9604e2fc973","toSide":"left"},
+		{"id":"c1db269cb3a51761","fromNode":"f03f4358743d2355","fromSide":"top","toNode":"e02cd01f114ebb5b","toSide":"bottom","label":"When loop ends"},
+		{"id":"6d798d1034e9e621","fromNode":"e5326ce21f00299f","fromSide":"bottom","toNode":"56472653e743ba25","toSide":"top"},
+		{"id":"6f1a417952bfc469","fromNode":"56472653e743ba25","fromSide":"bottom","toNode":"5ca815674af08c45","toSide":"top"}
+	]
+}

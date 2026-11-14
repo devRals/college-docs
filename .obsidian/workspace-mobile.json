@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "61233b2d1aef8d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba24326e833f1cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a3c200f1c2c3f0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": "Drawings/School.md",
+                "bFile": "Drawings/School.md",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: School"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed06a0ab06151624",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c7d7fccf8854e9ab",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "964c511bcaf9ad3e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e99d2d97c3255736",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "068c21e17ce50455",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "087db5758e3abf00",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7f632571337edcbe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0088b280f6254d1c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Math/Boolean Algebra/AND-Conjuction.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c9f75942666a554c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Math/Boolean Algebra/AND-Conjuction.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "dc180de2e95ace81",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Math/Boolean Algebra/AND-Conjuction.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "22746e240f89ecae",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "13c7a292254ebff6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "sheet-plus:Create excel file": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "32a3c200f1c2c3f0",
+  "lastOpenFiles": [
+    "Algorythims/Linear Search O(n).canvas",
+    "Algorythims/Example.canvas",
+    "Algorythims/Algorithms.md",
+    "Algorythims/Find biggest value in the list O(n).canvas",
+    "Exam Dates/2026-12-11 D-Math Midterm.md",
+    "Drawings/School.md",
+    "Drawings/Drawings.md",
+    "Math/LaTex/LaTex.md",
+    "Math/Boolean Algebra/Boolean Algebra.md",
+    "Math/LaTex/Expressions/Variables.md",
+    "Math/LaTex/Expressions/Exponents & Subscripts.md",
+    "README.md",
+    "Class Schedule.md",
+    "Exam Dates/2026-11-20 BTG Quiz.md",
+    "2026-11-20.md",
+    "Exam Dates/2026-11-28 SA&T Quiz.md",
+    "Exam Dates/2026-12-19 SA&T Midterm.md",
+    "Exam Dates/2026-12-07 BTG Midterm.md",
+    "Exam Dates/2026-12-03 YG Midterm.md",
+    "Exam Dates",
+    "Exam Dates.md",
+    "Calendars/Exam Dates.md",
+    "Calendars",
+    "Math/Boolean Algebra/NOT-Negation.md",
+    "Math/Boolean Algebra/AND-Conjuction.md"
+  ]
+}

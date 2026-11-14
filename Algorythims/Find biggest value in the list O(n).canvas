@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4346f5957093357a","x":-24,"y":-312,"width":250,"height":60,"color":"4","type":"text","text":"Start"},
+		{"id":"05ff688fe124e655","x":-121,"y":-158,"width":250,"height":60,"color":"5","type":"text","text":"Start x as p"},
+		{"id":"9fc2d45e18427421","x":88,"y":310,"width":250,"height":60,"color":"6","type":"text","text":"Is x equals i?"},
+		{"id":"6e180c9ec5cffa84","x":101,"y":590,"width":250,"height":60,"color":"5","type":"text","text":"X is the biggest value in the list"},
+		{"id":"f6030624790f2147","x":152,"y":811,"width":250,"height":60,"color":"4","type":"text","text":"Finish"},
+		{"id":"4db1ee7f17099746","x":520,"y":310,"width":250,"height":60,"color":"5","type":"text","text":"Set x to i"},
+		{"id":"3416f1120c214b48","x":152,"y":-40,"width":250,"height":60,"color":"2","type":"text","text":"Start iterating over the \"list\""},
+		{"id":"870507aa14c4f8eb","x":-371,"y":310,"width":250,"height":60,"color":"5","type":"text","text":"Continue the iteration "}
+	],
+	"edges":[
+		{"id":"976c8d2db351a626","fromNode":"4346f5957093357a","fromSide":"bottom","toNode":"05ff688fe124e655","toSide":"top"},
+		{"id":"0e07edbfa7a32573","fromNode":"05ff688fe124e655","fromSide":"bottom","toNode":"3416f1120c214b48","toSide":"top"},
+		{"id":"da3df918c332b82e","fromNode":"3416f1120c214b48","fromSide":"bottom","toNode":"9fc2d45e18427421","toSide":"top","label":"Define i as \"current value\""},
+		{"id":"50f51052702ca076","fromNode":"6e180c9ec5cffa84","fromSide":"bottom","toNode":"f6030624790f2147","toSide":"top"},
+		{"id":"5a2b24b4d4078921","fromNode":"9fc2d45e18427421","fromSide":"left","toNode":"870507aa14c4f8eb","toSide":"right","label":"No"},
+		{"id":"15731f73d077fa56","fromNode":"870507aa14c4f8eb","fromSide":"top","toNode":"9fc2d45e18427421","toSide":"top"},
+		{"id":"35aaac37793d9dc5","fromNode":"9fc2d45e18427421","fromSide":"right","toNode":"4db1ee7f17099746","toSide":"left","label":"Yes"},
+		{"id":"bf13410b7907d6eb","fromNode":"9fc2d45e18427421","fromSide":"bottom","toNode":"6e180c9ec5cffa84","toSide":"top","label":"When loop ends"},
+		{"id":"89c43fef49801936","fromNode":"4db1ee7f17099746","fromSide":"top","toNode":"9fc2d45e18427421","toSide":"top"}
+	]
+}
