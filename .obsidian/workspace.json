@@ -13,16 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Math/LaTex/LaTex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "LaTex"
             }
           },
           {
-            "id": "a7004505e80026b4",
+            "id": "161e25378bb42685",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Algorithms/Linear Search O(n).canvas",
+                "viewState": {
+                  "x": 220.69389183407733,
+                  "y": 68.68368133060514,
+                  "zoom": -0.33265110889550087
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Linear Search O(n)"
+            }
+          },
+          {
+            "id": "330f6e34d7152ed4",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -31,7 +48,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Written As",
+                "query": "d-math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.60546875
+    "width": 293.6015625
   },
   "right": {
     "id": "bc6c181175ce69a8",
@@ -171,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Class Schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,6 +229,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
@@ -219,44 +238,47 @@
       "sheet-plus:Create excel file": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ab4b5be22a68e23a",
+  "active": "330f6e34d7152ed4",
   "lastOpenFiles": [
+    "Exam Dates/2026-12-19 SA&T (Midterm) M2.md",
+    "Exam Dates/2026-12-11 D-Math (Midterm) M3.md",
+    "Exam Dates/2026-12-07 BTG (Midterm) F12.md",
+    "Exam Dates/2026-12-05 ENG (Midterm) M1.md",
+    "Exam Dates/2026-12-03 YG (Midterm)  M2.md",
+    "Untitled.canvas",
+    "Algorithms/Linear Search O(n).canvas",
+    "Exam Dates/2026-11-28 SA&T (Midterm) M2.md",
+    "Exam Dates/2026-11-20 BTG (Quiz) D11.md",
+    "Exam Dates/2026-11-28 TBT (Midterm) M3.md",
+    "Class Schedule.md",
+    "Exam Dates/2026-11-28 TD&M (Midterm) M1.md",
+    "Algorithms/Find biggest value in the list O(n).canvas",
+    "Algorithms/Example.canvas",
+    "Algorithms/Algorithms.md",
+    "Drawings/School.md",
+    "Drawings/Drawings.md",
+    "Math/Boolean Algebra/Boolean Algebra.md",
+    "Math/LaTex/LaTex.md",
+    "Algorithms",
+    "Math/LaTex/Expressions/Symbols/Symbols.md",
+    "Math/LaTex/Expressions/Symbols/Product (Capital PI).md",
+    "Math/LaTex/Expressions/Exponents & Subscripts.md",
+    "Exam Dates/2026-12-19 SA&T Midterm.md",
+    "README.md",
     "Exam Dates/2026-11-20 BTG Quiz.md",
-    "Excel 2026-11-10 10.30.59.univer.md",
-    "Excel 2026-11-10 10.29.16.univer.md",
+    "Exam Dates/2026-12-11 D-Math Midterm.md",
     "Exam Dates/2026-12-07 BTG Midterm.md",
     "Exam Dates/2026-12-03 YG Midterm.md",
-    "Exam Dates/2026-12-11 D-Math Midterm.md",
-    "Exam Dates/2026-12-19 SA&T Midterm.md",
     "Exam Dates/2026-11-28 SA&T Quiz.md",
-    "Class Schedule.md",
-    "README.md",
-    "Exam Dates/Exam Dates as Notes.md",
+    "Excel 2026-11-10 10.30.59.univer.md",
     "Exam Dates",
-    "Math/LaTex/LaTex.md",
-    "2026-11-20.md",
-    "Math/LaTex/Expressions/Symbols/Symbols.md",
     "Algorythims/Example.canvas",
-    "Math/Boolean Algebra/Boolean Algebra.md",
-    "Math/LaTex/Expressions/Exponents & Subscripts.md",
-    "Math/Boolean Algebra/OR-Disjuction.md",
-    "Math/Boolean Algebra/AND-Conjuction.md",
-    "Math/Boolean Algebra/NOT-Negation.md",
-    "Math/LaTex/Expressions/Symbols/Integral.md",
-    "Math/LaTex/Expressions/Symbols/Product (Capital PI).md",
-    "Math/LaTex/Expressions/Symbols/Sum (Capital Sigma).md",
-    "Math/LaTex/Expressions/Text.md",
-    "Math/LaTex/Expressions/Variables.md",
-    "Drawings/Drawings.md",
-    "Drawings/School.md",
     "Math/Latex/Expressions/Symbols/Untitled",
     "Math/LaTex/Expressions/Symbols",
     "Math/LaTex/Expressions",
-    "Untitled.canvas",
     "Math/LaTex",
     "Drawings",
     "Ink/Writing/2026.10.4 - 12.56pm.svg",
@@ -266,7 +288,6 @@
     "Ink/Drawing",
     "Ink/Writing/2026.10.3 - 22.27pm.svg",
     "Ink/Writing",
-    "Ink",
     "Untitled 1.canvas"
   ]
 }
