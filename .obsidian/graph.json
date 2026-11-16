@@ -2,21 +2,57 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Algorithms  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path: \"Exam Dates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path: Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path: Drawings  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.14015099519561,
-  "lineSizeMultiplier": 1.62731640356898,
-  "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "nodeSizeMultiplier": 1.31983527796843,
+  "lineSizeMultiplier": 2.02271791352093,
+  "collapse-forces": true,
+  "centerStrength": 0.747524267085008,
+  "repelStrength": 9.11069712716933,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8676361381097096,
+  "scale": 0.5784240920731397,
   "close": true
 }

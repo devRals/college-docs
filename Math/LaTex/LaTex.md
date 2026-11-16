@@ -16,3 +16,6 @@ Here's a list of all well known LaTex expressions
 ![[Variables]]
 ![[Exponents & Subscripts|]]
 ![[Symbols]]
+![[Sum (Capital Sigma)]]
+![[Product (Capital PI)]]
+![[Integral]]

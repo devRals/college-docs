@@ -48,5 +48,9 @@
   "Exam Dates": {
     "iconName": "LiPenBox",
     "iconColor": "#21c033"
+  },
+  "Algorithms": {
+    "iconName": "LiCodeSquare",
+    "iconColor": "#eb0052"
   }
 }
