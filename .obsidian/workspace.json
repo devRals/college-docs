@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "efc0768f5b484225",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "TO-DO List.md",
+                "bFile": "TO-DO List.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: TO-DO List  (Working Tree)"
+            }
+          },
+          {
             "id": "5d4243ddbb7de323",
             "type": "leaf",
             "state": {
@@ -37,7 +51,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.6015625,
-    "collapsed": true
+    "width": 293.6015625
   },
   "right": {
     "id": "bc6c181175ce69a8",
@@ -206,6 +220,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b780413e100a9393",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
         ],
         "currentTab": 5
@@ -230,8 +254,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a71218b2a3d6327",
+  "active": "efc0768f5b484225",
   "lastOpenFiles": [
+    "TO-DO List.md",
+    "Class Schedule.md",
+    "README.md",
     "Exam Dates/2026-12-19 SA&T (Midterm) M2.md",
     "Math/LaTex/LaTex.md",
     "Math/LaTex/Expressions/Variables.md",
@@ -251,7 +278,6 @@
     "Algorithms/Find biggest value in the list O(n).canvas",
     "Algorithms/Linear Search O(n).canvas",
     "Untitled.canvas",
-    "Class Schedule.md",
     "Algorithms/Example.canvas",
     "Drawings/School.md",
     "Drawings/Drawings.md",
@@ -261,8 +287,6 @@
     "Math/LaTex/Expressions/Symbols/Product (Capital PI).md",
     "Math/LaTex/Expressions/Exponents & Subscripts.md",
     "Exam Dates/2026-12-19 SA&T Midterm.md",
-    "README.md",
-    "Exam Dates/2026-11-20 BTG Quiz.md",
     "Exam Dates",
     "Algorythims/Example.canvas",
     "Math/Latex/Expressions/Symbols/Untitled",
